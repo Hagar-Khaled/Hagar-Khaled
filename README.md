@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FE7211&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Hagar+Khaled;Tech+Explorer+%7C+AI+%26+ML+Enthusiast;Software+Engineer+%7C+Interactive+Builder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FE7211&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Hagar+Khaled;AI+%26+ML+Explorer+🚀;SWE+%7C+Cybersecurity+%7C+Full+Stack;Always+Learning+%7C+Always+Building" alt="Typing SVG">
 </h1>
 
 <h3 align="center">
@@ -16,17 +16,17 @@
 ---
 
 <!-- About Section -->
-## 🧩 About Me  
+##  About Me  
 
-🎓 Pursuing a **Computer Engineering** degree @ FEHU  
-🌱 Exploring **Deep Learning**, **Full Stack Development**, and **3D Interactive Web Experiences**  
-💡 Passionate about **AI-driven products**, **mobile apps**, and **Data science**  
+🎓 Pursuing a **Computer Engineering** degree.
+🌱 Diving into **Deep Learning**, **Full Stack Development**, and **Interactive Web Experiences**  
+💡 Passionate about **AI-driven products**, **mobile apps**, and **Data Science**  
 ⚡ Always learning. Always shipping.
 
 ---
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <p align="center">
   <!-- Languages -->
@@ -40,17 +40,9 @@
 
 ---
 
-<!-- 3D Contribution Graph -->
-## 🌌 My 3D GitHub Universe  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</p>
-
----
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hagar-Khaled&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -64,7 +56,7 @@
 ---
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 🔹 [**DAL Website**](https://dal-world.com/en) — Bilingual **interactive store + blog** with Arabic/English support, **admin dashboard**, and analytics.  
 🔹 [**MalwareGuard Pro**](https://github.com/Hagar-Khaled/MalwareGuard-Pro) — Hybrid **malware analysis tool** powered by **ML** & **VirusTotal API**.  
@@ -90,5 +82,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hagar-Khaled&label=Profile%20Views&color=6A0DAD&style=flat" alt="current profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Hagar-Khaled&label=Profile%20Views&color=6A0DAD&style=flat" alt="Profile Views" /> 
 </p>
