@@ -18,11 +18,10 @@
 <!-- About Section -->
 ## 🧩 About Me  
 
-🎓 Pursuing a **Computer & Systems Engineering** degree @ FEHU  
-🔭 Currently building **AI-SecGuard** & **MalwareGuard Pro** 🛡️  
-🌱 Exploring **Deep Learning**, **Cybersecurity**, and **Interactive Web Experiences**  
-💡 Passionate about **AI-driven products**, **mobile apps**, and **full-stack development**  
-⚡ Fun fact: *If it moves, glows, or talks back — I probably built it!*  
+🎓 Pursuing a **Computer Engineering** degree @ FEHU  
+🌱 Exploring **Deep Learning**, **Full Stack Development**, and **3D Interactive Web Experiences**  
+💡 Passionate about **AI-driven products**, **mobile apps**, and **Data science**  
+⚡ Always learning. Always shipping.
 
 ---
 
@@ -91,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hagar-Khaled&label=Profile%20Views&color=6A0DAD&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Hagar-Khaled&label=Profile%20Views&color=6A0DAD&style=flat" alt="current profile views" /> 
 </p>
