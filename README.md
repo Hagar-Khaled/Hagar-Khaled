@@ -80,7 +80,7 @@
   <a href="mailto:hagar.khaled485@gmail.com">
     <img src="https://img.shields.io/badge/Email-FE7211?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hagar-khaled">
+  <a href="https://www.linkedin.com/in/hagar-helmy">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hagar.framer.website/">
