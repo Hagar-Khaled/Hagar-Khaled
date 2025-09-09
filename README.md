@@ -18,10 +18,11 @@
 <!-- About Section -->
 ##  About Me  
 
-🎓 Pursuing a **Computer Engineering** degree.
-🌱 Diving into **Deep Learning**, **Full Stack Development**, and **Interactive Web Experiences**  
-💡 Passionate about **AI-driven products**, **mobile apps**, and **Data Science**  
+🎓 Pursuing a **Computer Engineering** degree @ FEHU <br>
+🌱 Diving into **Deep Learning**, **Full Stack Development**, and **Interactive Web Experiences** <br>
+💡 Passionate about **AI-driven products**, **mobile apps**, and **Data Science** <br>
 ⚡ Always learning. Always shipping.
+
 
 ---
 
